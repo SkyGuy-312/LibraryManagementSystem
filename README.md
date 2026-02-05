@@ -73,6 +73,3 @@ To build and run this project, you need:
 - `src/ui`: Qt Widget classes (`LoginWidget`, `DashboardWidget`, `MainWindow`).
 - `src/main.cpp`: Application entry point.
 
-## License
-
-This project is open source.
