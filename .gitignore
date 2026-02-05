@@ -13,3 +13,6 @@ Makefile
 LibraryManagementSystem
 .DS_Store
 .vscode/
+*.json
+books.json
+users.json
