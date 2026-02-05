@@ -1,0 +1,14 @@
+#include <QApplication>
+#include "ui/MainWindow.h"
+
+int main(int argc, char *argv[])
+{
+    QApplication app(argc, argv);
+
+    MainWindow mainWindow;
+
+    mainWindow.setWindowTitle("Library Management System");
+    mainWindow.show();
+
+    return app.exec();
+}
